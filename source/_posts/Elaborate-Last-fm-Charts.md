@@ -1,0 +1,13 @@
+---
+title: Elaborate Last.fm Charts
+date: 2014-11-16 10:00:00
+tags: archive
+thumbnailImagePosition: left
+autoThumbnailImage: yes
+photos: lastfm.png
+---
+
+One of my pet projects is available here: http://perlence.mooo.com/elaboratecharts/
+This site helps you see your music preferences in graphical way.
+<!-- more -->
+Brought to you by [@Perlencellent](https://twitter.com/perlencellent) and [@Sacret19](https://twitter.com/sacret19)
