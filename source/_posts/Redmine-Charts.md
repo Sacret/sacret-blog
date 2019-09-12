@@ -1,7 +1,9 @@
 ---
 title: Redmine Charts
 date: 2015-07-15 10:00:00
-tags: archive
+tags:
+- archive
+- pet project
 thumbnailImagePosition: left
 autoThumbnailImage: yes
 photos: redmine.png

@@ -14,6 +14,8 @@ global:
     github: "GitHub"
     stack_overflow: "Stack Overflow"
     twitter: "Twitter"
+    medium: "Medium"
+    patreon: "Patreon"
     instagram: "Instagram"
     facebook: "Facebook"
     google_plus: "Google +"

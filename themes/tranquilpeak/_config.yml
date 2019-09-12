@@ -69,6 +69,14 @@ sidebar:
             title: global.linkedin
             url: https://www.linkedin.com/in/anastasia-abakumova-a5156348/
             icon: fab fa-linkedin
+        medium:
+            title: global.medium
+            url: https://medium.com/@sacret
+            icon: fab fa-medium
+        patreon:
+            title: global.patreon
+            url: https://www.patreon.com/sacret
+            icon: fab fa-patreon
         twitter:
             title: global.twitter
             url: https://twitter.com/Sacret19

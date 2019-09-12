@@ -1,7 +1,9 @@
 ---
 title: Elaborate Last.fm Charts
 date: 2014-11-16 10:00:00
-tags: archive
+tags:
+- archive
+- pet project
 thumbnailImagePosition: left
 autoThumbnailImage: yes
 photos: lastfm.png
