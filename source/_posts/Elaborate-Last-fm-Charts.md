@@ -9,7 +9,7 @@ autoThumbnailImage: yes
 photos: lastfm.png
 ---
 
-One of my pet projects is available here: http://perlence.mooo.com/elaboratecharts/
-This site helps you see your music preferences in graphical way.
+One of my pet projects is available here: http://perlence.mooo.com/elaboratecharts/.
+This site helps you see your music preferences in a graphical way.
 <!-- more -->
-Brought to you by [@Perlencellent](https://twitter.com/perlencellent) and [@Sacret19](https://twitter.com/sacret19)
+Brought to you by [@Perlencellent](https://twitter.com/perlencellent) and [@Sacret19](https://twitter.com/sacret19).

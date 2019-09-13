@@ -17,4 +17,4 @@ It helps to see statistics of using corporative Redmine site. It has several gra
 * today issues
 * my progress
 
-This project is no longer available
+This project is no longer available.

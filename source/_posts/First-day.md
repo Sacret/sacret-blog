@@ -5,4 +5,4 @@ tags: archive
 comments: false
 ---
 
-Today is the first day of my own site! It's a big deal for me as a newbie web developer.
+Today is the first day of my site! It's a big deal for me as a newbie web developer.
