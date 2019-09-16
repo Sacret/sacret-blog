@@ -4,7 +4,7 @@ date: 2016-04-01 10:00:00
 tags: archive
 thumbnailImagePosition: left
 autoThumbnailImage: yes
-photos: novocherkassk.png
+photos: novocherkassk.jpg
 ---
 
 Here it is the very first IT-community in my hometown: https://vk.com/it.novocherkassk.
