@@ -4,9 +4,8 @@ date: 2015-07-15 10:00:00
 tags:
 - archive
 - pet project
+thumbnailImage: thumbnail.png
 thumbnailImagePosition: left
-autoThumbnailImage: yes
-photos: redmine.png
 ---
 
 Redmine Charts is just an old project which I created for my colleagues at [ProgForce](https://progforce.com/).
@@ -18,3 +17,5 @@ It helps to see statistics of using corporative Redmine site. It has several gra
 * my progress
 
 This project is no longer available.
+
+{% image fancybox redmine.png %}

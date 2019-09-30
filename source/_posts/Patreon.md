@@ -1,7 +1,9 @@
 ---
 title: Patreon
 date: 2019-03-01 10:00:00
-tags: archive
+tags:
+- archive
+- patreon
 thumbnailImage: thumbnail.png
 thumbnailImagePosition: left
 ---
