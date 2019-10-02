@@ -5,7 +5,6 @@ tags:
 - archive
 - patreon
 thumbnailImage: thumbnail.png
-thumbnailImagePosition: left
 ---
 
 I am posting updates on my [Patreon page](https://www.patreon.com/sacret) as soon as possible. Here you can find posts, photoguides, and video guides about my drawings.

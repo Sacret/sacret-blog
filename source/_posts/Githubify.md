@@ -5,7 +5,6 @@ tags:
 - archive
 - pet project
 thumbnailImage: thumbnail.jpg
-thumbnailImagePosition: left
 ---
 
 [Githubify](https://githubify.sacret.ru/) is a service that I created (generally for myself) to store and manage tags for the repos from Github.

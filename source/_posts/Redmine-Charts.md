@@ -5,7 +5,6 @@ tags:
 - archive
 - pet project
 thumbnailImage: thumbnail.png
-thumbnailImagePosition: left
 ---
 
 Redmine Charts is just an old project which I created for my colleagues at [ProgForce](https://progforce.com/).

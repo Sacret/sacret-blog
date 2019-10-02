@@ -3,7 +3,6 @@ title: IT-princess
 date: 2016-04-25 10:00:00
 tags: archive
 thumbnailImage: thumbnail.png
-thumbnailImagePosition: left
 ---
 
 Is it difficult to be a princess? I don't think so! Surprisingly I was chosen a winner of the "IT-princess" contest by Mail.Ru. This contest took place in Russia from the 10th of March to the 24th of April.

@@ -5,7 +5,6 @@ tags:
 - archive
 - patreon
 thumbnailImage: thumbnail.jpg
-thumbnailImagePosition: left
 ---
 
 Finally, I made postcards with my illustrations. Some of them I sent for my followers on Twitter and Instagram, others presented to my friends and relatives.

@@ -5,7 +5,6 @@ tags:
 - archive
 - pet project
 thumbnailImage: thumbnail.png
-thumbnailImagePosition: left
 ---
 
 One of my pet projects is available here: http://perlence.mooo.com/elaboratecharts/.
