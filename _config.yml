@@ -4,18 +4,20 @@
 
 # Site
 title: Sacret
-subtitle:
-description:
+subtitle: personal blog
+description: blog about creativity and for creativity
 keywords:
 - sacret
 - творчество
+- abakumova
+- kozaeva
 author: Anastasia Abakumova
 language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://localhost:4000
+url: https://sacret.ru
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
