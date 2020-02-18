@@ -9,6 +9,6 @@ thumbnailImage: thumbnail.jpg
 
 Finally, I made postcards with my illustrations. Some of them I sent for my followers on Twitter and Instagram, others presented to my friends and relatives.
 <!-- more -->
-You can always receive a postcard as a follower on Patreon.
+You can always receive a postcard as a follower on [Patreon](https://www.patreon.com/sacret).
 
 {% image fancybox postcards.jpg %}

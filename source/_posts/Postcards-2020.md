@@ -1,11 +1,11 @@
 ---
-title: Postcards 2019
-date: 2019-09-30 20:52:47
+title: Postcards 2020
+date: 2020-02-18 18:25:11
 tags: patreon
 thumbnailImage: thumbnail.jpg
 ---
 
-I made a new portion of postcards with my illustrations. Check them out!
+Today I received a very big package of new postcards. Some of them I printed before (the ones with animals) but the other ones are brand new.
 <!-- more -->
 You can always receive a postcard as a follower on [Patreon](https://www.patreon.com/sacret).
 
