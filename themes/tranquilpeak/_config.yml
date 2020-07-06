@@ -85,6 +85,10 @@ sidebar:
             title: global.instagram
             url: https://instagram.com/Sacret19
             icon: fab fa-instagram
+        telegram:
+            title: global.telegram
+            url: https://t.me/ofbirdsandmen
+            icon: fab fa-telegram
         mail:
             title: global.mail
             url: mailto:sacret190990@gmail.com
