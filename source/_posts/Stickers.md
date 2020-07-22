@@ -2,6 +2,7 @@
 title: Stickers
 date: 2020-07-22 20:23:27
 tags:
+- 2020cherkassk
 thumbnailImage: thumbnail.jpg
 gallery:
 - stickers.jpg
