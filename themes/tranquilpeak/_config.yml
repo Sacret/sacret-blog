@@ -79,12 +79,16 @@ sidebar:
             icon: fab fa-patreon
         twitter:
             title: global.twitter
-            url: https://twitter.com/Sacret19
+            url: https://twitter.com/sacret19
             icon: fab fa-twitter
         instagram:
             title: global.instagram
-            url: https://instagram.com/Sacret19
+            url: https://instagram.com/sacret19
             icon: fab fa-instagram
+        youtube:
+            title: global.youtube
+            url: https://www.youtube.com/@sacret19
+            icon: fab fa-youtube
         telegram:
             title: global.telegram
             url: https://t.me/ofbirdsandmen
