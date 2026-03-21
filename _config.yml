@@ -13,7 +13,7 @@ keywords:
 - kozaeva
 author: Anastasia Abakumova
 language: en
-timezone:
+timezone: Europe/Moscow
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -30,7 +30,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+skip_render: robots.txt
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -78,6 +78,16 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: tranquilpeak
+
+# Lazy load images
+lazyload:
+  enable: true
+  onlypost: false
+  loadingImg: # optional loading placeholder
+
+# Sitemap
+sitemap:
+  path: sitemap.xml
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
