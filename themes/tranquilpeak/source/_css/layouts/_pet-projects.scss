@@ -1,0 +1,47 @@
+#pet-projects-bar {
+    position: sticky;
+    bottom: 0;
+    background: rgba(17, 26, 35, 0.9);
+    color: #ebebeb;
+    text-align: center;
+    padding: 8px 15px;
+    font-family: $open-sans-sans-serif;
+    font-size: map-get($font-size, 'small');
+
+    .pet-projects-label {
+        font-weight: 600;
+        margin-right: 8px;
+    }
+
+    .pet-projects-sep {
+        margin: 0 8px;
+        opacity: 0.5;
+    }
+
+    a {
+        color: #ebebeb;
+        text-decoration: none;
+        transition: color 0.2s;
+
+        &:hover {
+            color: map-get($colors, 'primary');
+        }
+    }
+
+    @media #{$small-and-down} {
+        font-size: 1.1rem;
+        padding: 5px 10px;
+
+        .pet-projects-label {
+            display: none;
+        }
+
+        .pet-projects-sep {
+            margin: 0 5px;
+        }
+    }
+}
+
+#main {
+    margin-bottom: 20px;
+}

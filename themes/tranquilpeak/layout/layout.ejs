@@ -24,6 +24,7 @@
                         <%= (page.coverCaption ? 'hasCoverCaption' : '') %>">
                 <%- body %>
                 <%- partial('_partial/footer', null, {cache: !config.relative_link}) %>
+                <%- partial('_partial/pet-projects', null, {cache: !config.relative_link}) %>
             </div>
             <% if (is_post() && (page.actions === undefined || page.actions)) { %>
                 <div id="bottom-bar" class="post-bottom-bar" data-behavior="<%= sidebarBehavior %>">
