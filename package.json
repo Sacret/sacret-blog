@@ -5,6 +5,11 @@
   "hexo": {
     "version": "8.1.1"
   },
+  "scripts": {
+    "build": "hexo clean && hexo generate",
+    "serve": "hexo server",
+    "deploy": "./deploy.sh"
+  },
   "dependencies": {
     "hexo": "^8.1.1",
     "hexo-generator-archive": "^2.0.0",
