@@ -5,7 +5,7 @@ tags:
 thumbnailImage: thumbnail.png
 ---
 
-I'm ready to announce a special project dedicated to Retrograde Mercury. And first step is pack of [telegram stickers](https://t.me/addstickers/retroplanets). Feel free to use them.
+I'm ready to announce a special project dedicated to Retrograde Mercury. And the first step is a pack of [telegram stickers](https://t.me/addstickers/retroplanets). Feel free to use them.
 <!-- more -->
 {% image fancybox mercury.png %}
 {% image fancybox venus.png %}

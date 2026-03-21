@@ -8,10 +8,10 @@ thumbnailImage: thumbnail.png
 Is it difficult to be a princess? I don't think so! Surprisingly I was chosen a winner of the "IT-princess" contest by Mail.Ru. This contest took place in Russia from the 10th of March to the 24th of April.
 <!-- more -->
 ## Anastasia Kozaeva
-is 25 years old, was born in Novocherkassk, Rostov region, Russia. She was graduated from the South-Russian State Technical University. Currently working as a software engineer for ProgForce. Her hobbies and interests are drawing, swimming.
+is 25 years old, was born in Novocherkassk, Rostov region, Russia. She graduated from the South-Russian State Technical University. Currently working as a software engineer for ProgForce. Her hobbies and interests are drawing, swimming.
 
 Sources:
-* [Mail.ru oficial post](https://vk.com/wall-35005_19516)
+* [Mail.ru official post](https://vk.com/wall-35005_19516)
 * [Marie Claire](http://www.marieclaire.ru/vestnik/obyyavlenyi-pobeditelnitsyi-konkursa-itprincess/)
 * [Hi-tech](https://hi-tech.mail.ru/news/it-princess-results-2016/)
 * [Odnoklassniki](https://ok.ru/yersh.novo/topic/65294284278619)

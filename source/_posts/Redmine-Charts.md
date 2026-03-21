@@ -9,7 +9,7 @@ thumbnailImage: thumbnail.png
 
 Redmine Charts is just an old project which I created for my colleagues at [ProgForce](https://progforce.com/).
 <!-- more -->
-It helps to see statistics of using corporative Redmine site. It has several graphics:
+It helps to see statistics of using corporate Redmine site. It has several graphics:
 * overall issues
 * issues per month
 * today issues

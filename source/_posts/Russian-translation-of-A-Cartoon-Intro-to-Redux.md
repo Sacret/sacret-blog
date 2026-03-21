@@ -8,7 +8,7 @@ tags:
 thumbnailImage: thumbnail.png
 ---
 
-Another one translation from English to Russian of [Lin Clark](https://twitter.com/linclark)'s article: A Cartoon Intro to Redux.
+Another translation from English to Russian of [Lin Clark](https://twitter.com/linclark)'s article: A Cartoon Intro to Redux.
 <!-- more -->
 The translation is posted on this [Medium page](https://medium.com/russian/a-cartoon-intro-to-redux-e2108896f7e6).
 
