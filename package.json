@@ -7,7 +7,7 @@
   },
   "scripts": {
     "build": "hexo clean && hexo generate",
-    "serve": "hexo server",
+    "serve": "npx --prefix themes/tranquilpeak grunt default & hexo server",
     "deploy": "./deploy.sh"
   },
   "dependencies": {
