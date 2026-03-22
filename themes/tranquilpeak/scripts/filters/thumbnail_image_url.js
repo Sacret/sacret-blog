@@ -51,7 +51,7 @@
           return post.thumbnailImage;
         }
 
-        return urlFor(post.permalink + post.thumbnailImage);
+        return urlFor(post.path + post.thumbnailImage);
       }
 
       // Define third images (cover image and first photo) as thumbnail image
@@ -63,7 +63,7 @@
             return post.photos[0].match(rPhoto)[1];
           }
 
-          return urlFor(post.permalink + post.photos[0].match(rPhoto)[1]);
+          return urlFor(post.path + post.photos[0].match(rPhoto)[1]);
         }
 
         // use cover image
@@ -72,7 +72,7 @@
             return post.coverImage;
           }
 
-          return urlFor(post.permalink + post.coverImage);
+          return urlFor(post.path + post.coverImage);
         }
       }
       return null;

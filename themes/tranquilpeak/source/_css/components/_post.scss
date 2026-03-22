@@ -38,9 +38,10 @@
         @include prefix('hypens', 'auto', 'webkit' 'moz');
 
         img {
-            display:   block;
-            width:     auto;
-            max-width: 100%;
+            display:    block;
+            width:      auto;
+            max-width:  100%;
+            margin-top: 1.5em;
         }
         :not(blockquote):not(li):not(.alert) {
             & > p {
