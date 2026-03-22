@@ -1,9 +1,18 @@
 #main {
-    display:            block;
-    min-height:         100%;
+    display:            flex;
+    flex-direction:     column;
+    min-height:         100vh;
     background:         map-get($main, 'background-color');
     transition:         transform .25s ease-in-out;
     -webkit-transition: -webkit-transform .25s ease-in-out;
+
+    > .post {
+        display:        block;
+    }
+
+    > #footer {
+        margin-top:     auto;
+    }
 
     &.hasCover {
         // Set `padding-top` to `50px` when there is a cover image on page and
