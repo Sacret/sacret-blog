@@ -34,10 +34,10 @@ sidebar:
             title: global.home
             url: /
             icon: fa fa-home
-        categories:
-            title: global.categories
-            url: /all-categories
-            icon: fa fa-bookmark
+        # categories:
+        #     title: global.categories
+        #     url: /all-categories
+        #     icon: fa fa-bookmark
         tags:
             title: global.tags
             url: /all-tags
@@ -61,22 +61,22 @@ sidebar:
             title: global.github
             url: https://github.com/Sacret/
             icon: fab fa-github
-        stack_overflow:
-            title: global.stack_overflow
-            url: https://stackoverflow.com/users/5115137/anastasia-abakumova
-            icon: fab fa-stack-overflow
-        linked_in:
-            title: global.linkedin
-            url: https://www.linkedin.com/in/anastasia-abakumova-a5156348/
-            icon: fab fa-linkedin
-        medium:
-            title: global.medium
-            url: https://medium.com/@sacret
-            icon: fab fa-medium
-        patreon:
-            title: global.patreon
-            url: https://www.patreon.com/sacret
-            icon: fab fa-patreon
+        # stack_overflow:
+        #     title: global.stack_overflow
+        #     url: https://stackoverflow.com/users/5115137/anastasia-abakumova
+        #     icon: fab fa-stack-overflow
+        # linked_in:
+        #     title: global.linkedin
+        #     url: https://www.linkedin.com/in/anastasia-abakumova-a5156348/
+        #     icon: fab fa-linkedin
+        # medium:
+        #     title: global.medium
+        #     url: https://medium.com/@sacret
+        #     icon: fab fa-medium
+        # patreon:
+        #     title: global.patreon
+        #     url: https://www.patreon.com/sacret
+        #     icon: fab fa-patreon
         twitter:
             title: global.twitter
             url: https://twitter.com/sacret19

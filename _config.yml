@@ -79,12 +79,6 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: tranquilpeak
 
-# Lazy load images
-lazyload:
-  enable: true
-  onlypost: false
-  loadingImg: # optional loading placeholder
-
 # Sitemap
 sitemap:
   path: sitemap.xml
