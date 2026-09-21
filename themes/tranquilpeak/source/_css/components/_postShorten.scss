@@ -19,6 +19,10 @@
         overflow:hidden;
     }
     .postShorten-header {
+        .postShorten-header-thumbnail {
+            display: none;
+        }
+
         .postShorten-title {
             margin:     0;
             word-break: initial;
@@ -83,6 +87,30 @@
 // Hide the post's thumbnail image on very small screen and down
 @media #{$xsmall-and-down} {
     .postShorten {
+        .postShorten-header {
+            display:     flex;
+            align-items: center;
+            gap:         15px;
+
+            .postShorten-header-thumbnail {
+                display: block;
+                flex:    0 0 60px;
+
+                img {
+                    display:    block;
+                    width:      60px;
+                    height:     60px;
+                    object-fit: cover;
+                    overflow:   hidden;
+                }
+            }
+
+            .postShorten-header-content {
+                flex:      1;
+                min-width: 0;
+            }
+        }
+
         .postShorten-thumbnailimg {
             display: none;
 

@@ -3,6 +3,7 @@
     <%
         var tableOfContents = null;
         var thumbnailImageUrl = post.thumbnailImageUrl;
+        var mobileThumbnailImageUrl = thumbnailImageUrl;
         var postContent = post.content;
         // Define default position for the thumbnail image
         var thumbnailImagePosition = theme.thumbnail_image_position;
@@ -42,26 +43,37 @@
                 <% thumbnailImageUrl = null; %>
             <% } %>
             <div class="postShorten-header">
-                <h1 class="postShorten-title">
-                    <% if (post.link) { %>
-                        <a
-                            class="link-unstyled"
-                            href="<%- url_for(post.link) %>"
-                            aria-label="<% __('global.open_post') %>: <%= post.title %>"
-                        >
-                            <%= post.title || '(' + __('post.no_title') + ')' %>
-                        </a>
-                    <% } else { %>
-                        <a
-                            class="link-unstyled"
-                            href="<%- url_for(post.path) %>"
-                            aria-label="<% __('global.open_post') %>: <%= post.title %>"
-                        >
-                            <%= post.title || '(' + __('post.no_title') + ')' %>
-                        </a>
-                    <% } %>
-                </h1>
-                <%- partial('post/meta', {post: post, classes: ['postShorten-meta']}) %>
+                <% if (mobileThumbnailImageUrl !== null) { %>
+                    <a
+                        class="postShorten-header-thumbnail"
+                        href="<%- url_for(post.path) %>"
+                        aria-label="<% __('global.open_post') %>: <%= post.title %>"
+                    >
+                        <img alt="" src="<%= mobileThumbnailImageUrl %>" width="60" height="60"/>
+                    </a>
+                <% } %>
+                <div class="postShorten-header-content">
+                    <h1 class="postShorten-title">
+                        <% if (post.link) { %>
+                            <a
+                                class="link-unstyled"
+                                href="<%- url_for(post.link) %>"
+                                aria-label="<% __('global.open_post') %>: <%= post.title %>"
+                            >
+                                <%= post.title || '(' + __('post.no_title') + ')' %>
+                            </a>
+                        <% } else { %>
+                            <a
+                                class="link-unstyled"
+                                href="<%- url_for(post.path) %>"
+                                aria-label="<% __('global.open_post') %>: <%= post.title %>"
+                            >
+                                <%= post.title || '(' + __('post.no_title') + ')' %>
+                            </a>
+                        <% } %>
+                    </h1>
+                    <%- partial('post/meta', {post: post, classes: ['postShorten-meta']}) %>
+                </div>
             </div>
             <% if (post.excerpt || post.link) { %>
                 <div class="postShorten-excerpt">
