@@ -18,4 +18,6 @@ The leveling marks now have an [online map](https://2020cherkassk.sacret.ru/onli
 
 I also refreshed the project page, added navigation between galleries and places, improved photo viewing, and optimized the images so the site loads faster on both desktop and mobile.
 
+I made this update together with [Claude Code](https://claude.com/claude-code).
+
 [Explore the updated 2020cherkassk →](https://2020cherkassk.sacret.ru/)

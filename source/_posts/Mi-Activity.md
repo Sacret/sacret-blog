@@ -21,4 +21,6 @@ Getting the data together took the most work. Over the years the bracelets synce
 
 The data has some limits. Heart rate only starts in September 2018, because the earlier bands didn't measure it. Calories are left out because older and newer bands count them so differently that the numbers can't be compared. Nights shorter than 2 hours or longer than 14 hours are dropped, since those are usually a band lying on the nightstand being scored as sleep.
 
+I made it together with [Claude Code](https://claude.com/claude-code).
+
 [Open Mi activity →](https://sacret.github.io/activity/)

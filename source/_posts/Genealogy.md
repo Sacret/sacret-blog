@@ -19,3 +19,5 @@ What it keeps for every document:
 * notes explaining why each candidate was rejected — most of them turn out to be ordinary words or similar-looking surnames
 
 The icon is the letter **ѣ** (yat), the one that disappeared from the alphabet in 1918 and is the first thing you notice in these documents.
+
+I made it together with [Claude Code](https://claude.com/claude-code).

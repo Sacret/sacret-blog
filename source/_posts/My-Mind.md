@@ -23,4 +23,6 @@ Progress lives in the browser and is never sent anywhere; it can be exported to 
 
 The mascot is a sprout growing out of a head. It felt like the right picture for the project.
 
+I made it together with [Claude Code](https://claude.com/claude-code).
+
 [Open my-mind →](https://sacret.github.io/my-mind/)
