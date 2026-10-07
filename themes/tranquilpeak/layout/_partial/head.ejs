@@ -126,8 +126,10 @@ var publisher = '';
         <link rel="alternate" type="application/atom+xml" title="RSS" href="<%- url_for(config.feed.path) %>">
     <% } %>
     <%- json_ld() %>
+    <%# no `type`: Hexo picks article/website itself ("blog" isn't an og:type);
+        the large card makes Telegram and others show the wide picture %>
     <%- open_graph({
-        type: 'blog',
+        twitter_card: 'summary_large_image',
         twitter_id: theme.author.twitter,
         fb_app_id: theme.fb_app_id
     }) %>
