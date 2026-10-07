@@ -139,7 +139,15 @@ var publisher = '';
             <meta property="fb:admins" content="<%= fb_admin_id %>"/>
         <% }) %>
     <% } %>
-    <% if (theme.gravatar_email) { %>
+    <%# the site card goes only to pages without a picture of their own:
+        parsers take the first og:image, so it would win over a post cover %>
+    <% var ownImage = (page.thumbnailImage && page.thumbnailImage.length) || (page.coverImage && page.coverImage.length) || (photos && photos.length); %>
+    <% if (theme.og_image && !ownImage) { %>
+        <meta property="og:image" content="<%= resolve_asset_url(theme.image_dir, theme.og_image) %>"/>
+        <meta property="og:image:width" content="1200"/>
+        <meta property="og:image:height" content="630"/>
+    <% } else if (theme.og_image) { %>
+    <% } else if (theme.gravatar_email) { %>
         <meta property="og:image" content="<%- gravatar(theme.gravatar_email, 640) %>"/>
     <% } else if (theme.author.picture) { %>
         <meta property="og:image" content="<%= resolve_asset_url(theme.image_dir, theme.author.picture) %>"/>

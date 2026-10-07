@@ -11,6 +11,8 @@
 
 # Image directory (default: images)
 image_dir: assets/images
+# Link preview card (1200x630) for pages without their own cover, drawn by og_card.py (sacret/genealogy)
+og_image: og-image.jpg
 
 
 # ---------------------
